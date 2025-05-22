@@ -77,16 +77,13 @@ proses `INSERT` 20 data oleh Rizky dan Yuda dari data yang telah di riset oleh z
 
 ![sum jumlah transaksi elektronik](assets/screenshots/jumlahtransaksielektonik.png)
 
-
 - Jumlah Transaksi Pakaian
 
 ![sum jumlah transaksi pakaian](assets/screenshots/jumlahtransaksipakaian.png)
 
-
 - Jumlah Transaksi Pakaian
 
 ![sum jumlah transaksi makanan](assets/screenshots/jumlahtransaksimakanan.png)
-
 
 - Jumlah Transaksi Keperluan Rumah Tangga
 
@@ -97,15 +94,19 @@ proses `INSERT` 20 data oleh Rizky dan Yuda dari data yang telah di riset oleh z
 #### b. Menghitung total pendapatan untuk setiap kategori produk
 
 - Pendapatan Elektronik
+
 ![sum total pendapatan elektronik](assets/screenshots/totalpendapatanelektronik.png)
 
 - Pendapatan Pakaian
+
 ![sum total pendapatan pakaian](assets/screenshots/totalpendapatanpakaian.png)
 
 - Pendapatan Makanan
+
 ![sum total pendapatan makanan](assets/screenshots/totalpendapatanmakanan.png)
 
 - Pendapatan Keperluan Rumah Tangga
+
 ![sum total pendapatan keperluan](assets/screenshots/totalpendapatankeperluanrumahtangga.png)
 
 ---
@@ -113,15 +114,19 @@ proses `INSERT` 20 data oleh Rizky dan Yuda dari data yang telah di riset oleh z
 ### c. Menghitung total harga rata-rata untuk setiap kategori
 
 -  Total Harga Rata-rata Elektronik
+
 ![avg elektronik](assets/screenshots/avgelektronik.png)
 
 - Total Harga Rata-rata Pakaian
+
 ![avg pakaian](assets/screenshots/avgpakaian.png)
 
 - Total Harga Rata-rata Makanan
+
 ![avg makanan](assets/screenshots/avgmakanan.png)
 
 - Total Harga Rata-rata Keperluan Rumah Tangga
+
 ![avg keperluan rumah tangga](assets/screenshots/avgkeperluanrumahtangga.png)
 
 ---
@@ -129,12 +134,18 @@ proses `INSERT` 20 data oleh Rizky dan Yuda dari data yang telah di riset oleh z
 #### d. Menampilkan rroduk dengan total penjualan terbanyak
 
 ![sapu lantai](assets/screenshots/produkpenjualanterbanyak.png)
+
 Produk “Sapu Lantai” menduduki posisi tertinggi penjualan.
+
+---
 
 ### e. Menampilkan semua kategori dengan total penjualan diatas satu juta
 
 ![penjualan diatas satu juta](assets/screenshots/penjualandiatassatujuta.png)
+
 Tiga kategori memiliki penjualan di atas satu juta
+
+---
 
 ## 🖼️ Dokumentasi Foto
 
