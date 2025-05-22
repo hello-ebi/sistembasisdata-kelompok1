@@ -81,9 +81,13 @@ proses `INSERT` 20 data oleh Rizky dan Yuda dari data yang telah di riset oleh z
 
 ![sum jumlah transaksi elektronik](assets/screenshots/jumlahtransaksielektonik.png)
 
+***
+
 - Jumlah Transaksi Pakaian
 
 ![sum jumlah transaksi pakaian](assets/screenshots/jumlahtransaksipakaian.png)
+
+___
 
 - Jumlah Transaksi Makanan
 
