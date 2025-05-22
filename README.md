@@ -58,6 +58,10 @@ Dokumentasi dari hasil kerja Kelompok 1 pada mata kuliah *Sistem Basis Data*, ya
 
 ![create table](assets/screenshots/createtable.png)
 
+`DESC penjualan`
+
+![desc penjualan](assets/screenshots/descpenjualan.png)
+
 
 ---
 
