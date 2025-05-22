@@ -54,17 +54,19 @@ Dokumentasi dari hasil kerja Kelompok 1 pada mata kuliah *Sistem Basis Data*, ya
 
 ### 📌 Jawaban No. 1 — Struktur Tabel
 
+`CREATE DATABASE`, `USE` database yang dikerjakan oleh zulfa, dan `CREATE TABLE` yang dikerjakan oleh Rizky dan Yuda.
+
 ![create table](assets/screenshots/createtable.png)
 
-`CREATE DATABASE`, `USE` database yang dikerjakan oleh zulfa, dan `CREATE TABLE` yang dikerjakan oleh Rizky dan Yuda.
 
 ---
 
 ### 📌 Jawaban No. 2 — Input Data ke Tabel
 
+proses `INSERT` 20 data oleh Rizky dan Yuda dari data yang telah di riset oleh zulfa sebelumnya.
+
 ![insert into](assets/screenshots/insertinto.png)
 
-proses `INSERT` 20 data oleh Rizky dan Yuda dari data yang telah di riset oleh zulfa sebelumnya.
 
 #### `select * from penjualan;`
 ![tampilan tabel](assets/screenshots/tabelpenjualan.png)
