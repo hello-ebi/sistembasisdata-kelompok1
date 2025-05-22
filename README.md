@@ -37,8 +37,8 @@ Dokumentasi dari hasil kerja Kelompok 1 pada mata kuliah *Sistem Basis Data*, ya
 - Menulis ulang query jawaban soal yang telah disiapkan Febrian.
 - `INSERT` 10 data ke tabel query menggunakan MySQL.
 
-### 4. Yudha Pratama
-- Membuat tabel penjualan.
+### 4. Yuda Pratama
+- Membuat tabel **penjualan**.
 - Menulis ulang query jawaban soal yang telah disiapkan Febrian.
 - `INSERT` 10 data ke tabel query menggunakan MySQL.
 
