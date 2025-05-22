@@ -74,15 +74,19 @@ proses `INSERT` 20 data oleh Rizky dan Yuda dari data yang telah di riset oleh z
 #### a. Menghitung jumlah transaksi untuk setiap kategori produk menggunakan `SUM()`
 
 - Jumlah Transaksi Elektronik
+
 ![sum jumlah transaksi elektronik](assets/screenshots/jumlahtransaksielektonik.png)
 
 - Jumlah Transaksi Pakaian
+
 ![sum jumlah transaksi pakaian](assets/screenshots/jumlahtransaksipakaian.png)
 
 - Jumlah Transaksi Pakaian
+
 ![sum jumlah transaksi makanan](assets/screenshots/jumlahtransaksimakanan.png)
 
 - Jumlah Transaksi Keperluan Rumah Tangga
+
 ![sum jumlah transaksi keperluan](assets/screenshots/jumlahtransaksikeperluanrumahtangga.png)
 
 ---
