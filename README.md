@@ -55,6 +55,7 @@ Dokumentasi dari hasil kerja Kelompok 1 pada mata kuliah *Sistem Basis Data*, ya
 ### 📌 Jawaban No. 1 — Struktur Tabel
 
 ![create table](assets/screenshots/createtable.png)
+
 `CREATE DATABASE`, `USE` database yang dikerjakan oleh zulfa, dan `CREATE TABLE` yang dikerjakan oleh Rizky dan Yuda.
 
 ---
@@ -62,6 +63,7 @@ Dokumentasi dari hasil kerja Kelompok 1 pada mata kuliah *Sistem Basis Data*, ya
 ### 📌 Jawaban No. 2 — Input Data ke Tabel
 
 ![insert into](assets/screenshots/insertinto.png)
+
 proses `INSERT` 20 data oleh Rizky dan Yuda dari data yang telah di riset oleh zulfa sebelumnya.
 
 #### `select * from penjualan;`
