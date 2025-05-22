@@ -78,7 +78,7 @@ proses `INSERT` 20 data oleh Rizky dan Yuda dari data yang telah di riset oleh z
 
 ### 📌 Jawaban No. 3 — Query `SUM()`, `AVG()`, dll
 
-**a. Menghitung jumlah transaksi untuk setiap kategori produk menggunakan `SUM()`**
+#### a. Menghitung jumlah transaksi untuk setiap kategori produk menggunakan `SUM()`**
 
 - Jumlah Transaksi Elektronik
 
@@ -98,7 +98,7 @@ proses `INSERT` 20 data oleh Rizky dan Yuda dari data yang telah di riset oleh z
 
 ---
 
-**b. Menghitung total pendapatan untuk setiap kategori produk memakai `SUM()`**
+#### b. Menghitung total pendapatan untuk setiap kategori produk memakai `SUM()`
 
 - Pendapatan Elektronik
 
@@ -118,7 +118,7 @@ proses `INSERT` 20 data oleh Rizky dan Yuda dari data yang telah di riset oleh z
 
 ---
 
-**c. Menghitung total harga rata-rata untuk setiap kategori memakai `AVG()`
+#### c. Menghitung total harga rata-rata untuk setiap kategori memakai `AVG()`
 
 -  Total Harga Rata-rata Elektronik
 
@@ -137,8 +137,7 @@ proses `INSERT` 20 data oleh Rizky dan Yuda dari data yang telah di riset oleh z
 ![avg keperluan rumah tangga](assets/screenshots/avgkeperluanrumahtangga.png)
 
 ---
-
-**d. Menampilkan produk dengan total penjualan terbanyak memakai `ORDER BY`, `DESC`, dan `LIMIT`**
+#### d. Menampilkan produk dengan total penjualan terbanyak memakai `ORDER BY`, `DESC`, dan `LIMIT`
 
 ![sapu lantai](assets/screenshots/produkpenjualanterbanyak.png)
 
@@ -146,17 +145,22 @@ Produk “Sapu Lantai” menduduki posisi tertinggi penjualan.
 
 ---
 
-**e. Menampilkan semua kategori dengan total penjualan diatas satu juta memakai `HAVING`**
+#### e. Menampilkan semua kategori dengan total penjualan diatas satu juta memakai `HAVING`
 
 ![penjualan diatas satu juta](assets/screenshots/penjualandiatassatujuta.png)
 
 Tiga kategori memiliki penjualan di atas satu juta
+
+### 🗒️ CATATAN KELOMPOK 1 🗒️
+
+Kami tidak memakai function `COUNT()` karena menurut kami isi dari tugas yang diberikan tidak ada yang cocok untuk memakai `COUNT()`, function tersebut hanya bisa menghitung jumlah baris data pada suatu kolom. Jadi jawabannya tidak akan sesuai dengan tugas yang diberikan, yang menekankan penghitungan nilai total suatu kolom dan rata-rata nilai suatu kolom. oleh sebab itu kami hanya memakai `SUM()`, dan `AVG()`. Terimakasih.
 
 ---
 
 ## 🖼️ Dokumentasi Foto
 
 #### Febrian memberikan intruksi ke setiap anggota
+
 ![Intruksi](assets/screenshots/intruksi.png)
 
 #### Zulfa meriset data lengkap dengan kategori jumlah dan total harganya
