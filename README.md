@@ -81,7 +81,7 @@ proses `INSERT` 20 data oleh Rizky dan Yuda dari data yang telah di riset oleh z
 
 ![sum jumlah transaksi pakaian](assets/screenshots/jumlahtransaksipakaian.png)
 
-- Jumlah Transaksi Pakaian
+- Jumlah Transaksi Makanan
 
 ![sum jumlah transaksi makanan](assets/screenshots/jumlahtransaksimakanan.png)
 
@@ -131,7 +131,7 @@ proses `INSERT` 20 data oleh Rizky dan Yuda dari data yang telah di riset oleh z
 
 ---
 
-#### d. Menampilkan rroduk dengan total penjualan terbanyak
+#### d. Menampilkan produk dengan total penjualan terbanyak
 
 ![sapu lantai](assets/screenshots/produkpenjualanterbanyak.png)
 
