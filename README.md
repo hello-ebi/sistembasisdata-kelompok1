@@ -58,10 +58,9 @@ Dokumentasi dari hasil kerja Kelompok 1 pada mata kuliah *Sistem Basis Data*, ya
 
 ![create table](assets/screenshots/createtable.png)
 
-`DESC penjualan`
+`DESC penjualan;`
 
 ![desc penjualan](assets/screenshots/descpenjualan.png)
-
 
 ---
 
@@ -71,15 +70,15 @@ proses `INSERT` 20 data oleh Rizky dan Yuda dari data yang telah di riset oleh z
 
 ![insert into](assets/screenshots/insertinto.png)
 
+`SELECT * FROM penjualan;`
 
-#### `select * from penjualan;`
 ![tampilan tabel](assets/screenshots/tabelpenjualan.png)
 
 ---
 
 ### 📌 Jawaban No. 3 — Query `SUM()`, `AVG()`, dll
 
-#### a. Menghitung jumlah transaksi untuk setiap kategori produk menggunakan `SUM()`
+**a. Menghitung jumlah transaksi untuk setiap kategori produk menggunakan `SUM()`**
 
 - Jumlah Transaksi Elektronik
 
@@ -99,7 +98,7 @@ proses `INSERT` 20 data oleh Rizky dan Yuda dari data yang telah di riset oleh z
 
 ---
 
-#### b. Menghitung total pendapatan untuk setiap kategori produk
+**b. Menghitung total pendapatan untuk setiap kategori produk memakai `SUM()`**
 
 - Pendapatan Elektronik
 
@@ -119,7 +118,7 @@ proses `INSERT` 20 data oleh Rizky dan Yuda dari data yang telah di riset oleh z
 
 ---
 
-### c. Menghitung total harga rata-rata untuk setiap kategori
+**c. Menghitung total harga rata-rata untuk setiap kategori memakai `AVG()`
 
 -  Total Harga Rata-rata Elektronik
 
@@ -139,7 +138,7 @@ proses `INSERT` 20 data oleh Rizky dan Yuda dari data yang telah di riset oleh z
 
 ---
 
-#### d. Menampilkan produk dengan total penjualan terbanyak
+**d. Menampilkan produk dengan total penjualan terbanyak memakai `ORDER BY`, `DESC`, dan `LIMIT`**
 
 ![sapu lantai](assets/screenshots/produkpenjualanterbanyak.png)
 
@@ -147,7 +146,7 @@ Produk “Sapu Lantai” menduduki posisi tertinggi penjualan.
 
 ---
 
-### e. Menampilkan semua kategori dengan total penjualan diatas satu juta
+**e. Menampilkan semua kategori dengan total penjualan diatas satu juta memakai `HAVING`**
 
 ![penjualan diatas satu juta](assets/screenshots/penjualandiatassatujuta.png)
 
