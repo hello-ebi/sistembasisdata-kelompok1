@@ -151,6 +151,8 @@ Produk “Sapu Lantai” menduduki posisi tertinggi penjualan.
 
 Tiga kategori memiliki penjualan di atas satu juta
 
+---
+
 ### 🗒️ CATATAN KELOMPOK 1 🗒️
 
 Kami tidak memakai function `COUNT()` karena menurut kami isi dari tugas yang diberikan tidak ada yang cocok untuk memakai `COUNT()`, function tersebut hanya bisa menghitung jumlah baris data pada suatu kolom. Jadi jawabannya tidak akan sesuai dengan tugas yang diberikan, yang menekankan penghitungan nilai total suatu kolom dan rata-rata nilai suatu kolom. oleh sebab itu kami hanya memakai `SUM()`, dan `AVG()`. Terimakasih.
