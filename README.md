@@ -30,17 +30,17 @@ Dokumentasi dari hasil kerja Kelompok 1 pada mata kuliah *Sistem Basis Data*, ya
 
 ### 2. Zulfa Dwi Nugraha
 - Mencari dan mengumpulkan 20 data yang relevan dengan isi di dalam tugas.
-- Menyiapkan data mentah agar siap di-`insert` oleh Rizky dan Yuda ke database.
+- Menyiapkan data mentah agar siap di-`INSERT` oleh Rizky dan Yuda ke database.
 
 ### 3. Rizki Muhammad Nazwaril Ilham
 - Membuat Database Kelompok 1.
 - Menulis ulang query jawaban soal yang telah disiapkan Febrian.
-- `Insert` 10 data ke tabel query menggunakan MySQL.
+- `INSERT` 10 data ke tabel query menggunakan MySQL.
 
 ### 4. Yudha Pratama
 - Membuat tabel penjualan.
 - Menulis ulang query jawaban soal yang telah disiapkan Febrian.
-- `Insert` 10 data ke tabel query menggunakan MySQL.
+- `INSERT` 10 data ke tabel query menggunakan MySQL.
 
 ---
 
@@ -50,82 +50,88 @@ Dokumentasi dari hasil kerja Kelompok 1 pada mata kuliah *Sistem Basis Data*, ya
 
 ---
 
-## Penyelesaian Tugas
+## 📸 Screenshot Query dan Penyelesaian Tugas ✅ 
 
-Berikut dokumentasi proses dan hasil pengerjaan kelompok:
-
-### 📸 Screenshot Query
-
-#### Jawaban nomor 1 tentang struktur tabel ✅
+### 📌 Jawaban No. 1 — Struktur Tabel
 
 ![create table](assets/screenshots/createtable.png)
-`create database`, `use` database yang dikerjakan oleh zulfa, dan `create table` yang dikerjakan oleh Rizky dan Yuda.
+`CREATE DATABASE`, `USE` database yang dikerjakan oleh zulfa, dan `CREATE TABLE` yang dikerjakan oleh Rizky dan Yuda.
 
-#### Jawaban nomor 2 tentang memasukan data ke tabel ✅
+---
+
+### 📌 Jawaban No. 2 — Input Data ke Tabel
 
 ![insert into](assets/screenshots/insertinto.png)
-proses `insert` 20 data oleh Rizky dan Yuda dari data yang telah di riset oleh zulfa sebelumnya.
+proses `INSERT` 20 data oleh Rizky dan Yuda dari data yang telah di riset oleh zulfa sebelumnya.
 
+#### `select * from penjualan;`
 ![tampilan tabel](assets/screenshots/tabelpenjualan.png)
-`select * from penjualan;`
 
-#### Jawaban nomor 3 tentang menjawab soal menggunakan query `SUM()`, `AVG()` dll ✅
+---
 
-- Menghitung jumlah transaksi untuk setiap kategori produk
+### 📌 Jawaban No. 3 — Query `SUM()`, `AVG()`, dll
 
+#### a. Menghitung jumlah transaksi untuk setiap kategori produk menggunakan `SUM()`
+
+- Jumlah Transaksi Elektronik
 ![sum jumlah transaksi elektronik](assets/screenshots/jumlahtransaksielektonik.png)
-Elektronik
 
+- Jumlah Transaksi Pakaian
 ![sum jumlah transaksi pakaian](assets/screenshots/jumlahtransaksipakaian.png)
-Pakaian
 
+- Jumlah Transaksi Pakaian
 ![sum jumlah transaksi makanan](assets/screenshots/jumlahtransaksimakanan.png)
-Makanan
 
+- Jumlah Transaksi Keperluan Rumah Tangga
 ![sum jumlah transaksi keperluan](assets/screenshots/jumlahtransaksikeperluanrumahtangga.png)
 
-- Menghitung total pendapatan untuk setiap kategori produk
+---
 
+#### b. Menghitung total pendapatan untuk setiap kategori produk
+
+- Pendapatan Elektronik
 ![sum total pendapatan elektronik](assets/screenshots/totalpendapatanelektronik.png)
-Elektronik
 
+- Pendapatan Pakaian
 ![sum total pendapatan pakaian](assets/screenshots/totalpendapatanpakaian.png)
-Pakaian
 
+- Pendapatan Makanan
 ![sum total pendapatan makanan](assets/screenshots/totalpendapatanmakanan.png)
-Makanan
 
+- Pendapatan Keperluan Rumah Tangga
 ![sum total pendapatan keperluan](assets/screenshots/totalpendapatankeperluanrumahtangga.png)
-Keperluan rumah tangga
 
-- Menghitung rata-rata total harga untuk setiap kategori
+---
 
+### c. Menghitung total harga rata-rata untuk setiap kategori
+
+-  Total Harga Rata-rata Elektronik
 ![avg elektronik](assets/screenshots/avgelektronik.png)
-Elektronik
 
+- Total Harga Rata-rata Pakaian
 ![avg pakaian](assets/screenshots/avgpakaian.png)
-Pakaian
 
+- Total Harga Rata-rata Makanan
 ![avg makanan](assets/screenshots/avgmakanan.png)
-Makanan
 
+- Total Harga Rata-rata Keperluan Rumah Tangga
 ![avg keperluan rumah tangga](assets/screenshots/avgkeperluanrumahtangga.png)
-Keperluan rumah tangga
 
-- Menampilkan produk dengan total penjualan terbanyak
+---
+
+#### d. Menampilkan rroduk dengan total penjualan terbanyak
 
 ![sapu lantai](assets/screenshots/produkpenjualanterbanyak.png)
-Sapu lantai
+Produk “Sapu Lantai” menduduki posisi tertinggi penjualan.
 
-- Menampilkan semua kategori dengan total penjualan diatas satu juta
+### e. Menampilkan semua kategori dengan total penjualan diatas satu juta
 
 ![penjualan diatas satu juta](assets/screenshots/penjualandiatassatujuta.png)
-3 kategori memiliki penjualan di atas 1 juta
+Tiga kategori memiliki penjualan di atas satu juta
 
-## Foto Dokumentasi
+## 🖼️ Dokumentasi Foto
 
 #### Febrian memberikan intruksi ke setiap anggota
-
 ![Intruksi](assets/screenshots/intruksi.png)
 
 #### Zulfa meriset data lengkap dengan kategori jumlah dan total harganya
