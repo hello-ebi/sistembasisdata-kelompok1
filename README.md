@@ -104,6 +104,10 @@ proses `INSERT` 20 data oleh Rizky dan Yuda dari data yang telah di riset oleh z
 
 #### b. Menghitung total pendapatan untuk setiap kategori produk memakai `SUM()`
 
+![jumlah total penndapatan](assets/screenshots/totalpendapatantanpawhere.png)
+
+**Menampilkan total pendapatan secara spesifik perkategori menggunakan `where`**
+
 - Pendapatan Elektronik
 
 ![sum total pendapatan elektronik](assets/screenshots/totalpendapatanelektronik.png)
