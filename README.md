@@ -173,16 +173,38 @@ Kami tidak memakai function `COUNT()` karena menurut kami isi dari tugas yang di
 
 ## 🖼️ Dokumentasi Foto
 
-**Febrian memberikan intruksi ke setiap anggota**
+- Febrian memberikan intruksi ke setiap anggota
 
 ![Intruksi](assets/screenshots/intruksi.png)
 
-**Zulfa meriset data lengkap dengan kategori jumlah dan total harganya**
+- Zulfa meriset data lengkap dengan kategori jumlah dan total harganya
 
 ![Riset](assets/screenshots/upariset.jpeg)
 
-**Febrian menyusun rancangan awal**
+- Febrian menyusun rancangan awal
 
-![Rancangan](assets/img/kelompok1febrian.png
+![Febrian](assets/img/kelompok1febrian.jpg)
 
+- Zulfa `CREATE` dan `USE` database
 
+![Zulfa](assets/img/kelompok1zulfa.jpg)
+
+- Yuda `CREATE TABLE` dan `INSERT INTO` 10 data
+
+![Yuda](assets/img/kelompok1yuda.jpg)
+
+- Rizky `INSERT INTO` 10 data lainnya
+
+![Rizky](assets/img/kelompok1rizky.jpg)\
+
+- Kelompok 1 sedang mengerjakan tugasnya masing-masing 🥳🥳🥳🥳
+
+![kelompok1](assets/img/kelompok1.jpg)
+
+---
+
+### Terimakasih
+
+**Terima kasih udah nyempetin baca dokumentasi tugas kami. Semoga bisa bermanfaat, ya.
+Dan makasih juga buat Pak Anas dan semua anggota Kelompok 1 yang udah kerja bareng sampai tugas ini kelar 💪
+Kalau ada saran atau masukan, kami terbuka banget. Sampai jumpa di tugas berikutnya.**
