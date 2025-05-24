@@ -203,8 +203,8 @@ Kami tidak memakai function `COUNT()` karena menurut kami isi dari tugas yang di
 
 ---
 
-### Terimakasih
+## Terimakasih
 
-**Terima kasih udah nyempetin baca dokumentasi tugas kami. Semoga bisa bermanfaat, ya.
+Terima kasih udah nyempetin baca dokumentasi tugas kami. Semoga bisa bermanfaat, ya.
 Dan makasih juga buat Pak Anas dan semua anggota Kelompok 1 yang udah kerja bareng sampai tugas ini kelar 💪
-Kalau ada saran atau masukan, kami terbuka banget. Sampai jumpa di tugas berikutnya.**
+Kalau ada saran atau masukan, kami terbuka banget. Sampai jumpa di tugas berikutnya.
