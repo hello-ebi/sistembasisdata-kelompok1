@@ -78,7 +78,11 @@ proses `INSERT` 20 data oleh Rizky dan Yuda dari data yang telah di riset oleh z
 
 ### 📌 Jawaban No. 3 — Query `SUM()`, `AVG()`, dll
 
-#### a. Menghitung jumlah transaksi untuk setiap kategori produk menggunakan `SUM()`**
+#### a. Menghitung jumlah transaksi untuk setiap kategori produk menggunakan `SUM()`
+
+![jumlah transaksi](assets/screenshots/jumlahtransaksitanpawhere.png)
+
+**Menampilkan jumlah transaksi secara spesifik perkategori menggunakan `where`**
 
 - Jumlah Transaksi Elektronik
 
