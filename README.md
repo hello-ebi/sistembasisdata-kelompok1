@@ -195,7 +195,7 @@ Kami tidak memakai function `COUNT()` karena menurut kami isi dari tugas yang di
 
 - Rizky `INSERT INTO` 10 data lainnya
 
-![Rizky](assets/img/kelompok1rizky.jpg)\
+![Rizky](assets/img/kelompok1rizky.jpg)
 
 - Kelompok 1 sedang mengerjakan tugasnya masing-masing 🥳🥳🥳🥳
 
