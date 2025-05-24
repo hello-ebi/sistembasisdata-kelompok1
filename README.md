@@ -78,7 +78,7 @@ proses `INSERT` 20 data oleh Rizky dan Yuda dari data yang telah di riset oleh z
 
 ### 📌 Jawaban No. 3 — Query `SUM()`, `AVG()`, dll
 
-#### a. Menghitung jumlah transaksi untuk setiap kategori produk menggunakan `SUM()`
+#### ✅ A. Menghitung jumlah transaksi untuk setiap kategori produk menggunakan `SUM()`
 
 ![jumlah transaksi](assets/screenshots/jumlahtransaksitanpawhere.png)
 
@@ -102,7 +102,7 @@ proses `INSERT` 20 data oleh Rizky dan Yuda dari data yang telah di riset oleh z
 
 ---
 
-#### b. Menghitung total pendapatan untuk setiap kategori produk memakai `SUM()`
+#### ✅ B. Menghitung total pendapatan untuk setiap kategori produk memakai `SUM()`
 
 ![jumlah total penndapatan](assets/screenshots/totalpendapatantanpawhere.png)
 
@@ -126,7 +126,7 @@ proses `INSERT` 20 data oleh Rizky dan Yuda dari data yang telah di riset oleh z
 
 ---
 
-#### c. Menghitung total harga rata-rata untuk setiap kategori memakai `AVG()`
+#### ✅ C. Menghitung total harga rata-rata untuk setiap kategori memakai `AVG()`
 
 ![avg tanpa where](assets/screenshots/rata2totalhargatanpawhere.png)
 
@@ -149,7 +149,7 @@ proses `INSERT` 20 data oleh Rizky dan Yuda dari data yang telah di riset oleh z
 ![avg keperluan rumah tangga](assets/screenshots/avgkeperluanrumahtangga.png)
 
 ---
-#### d. Menampilkan produk dengan total penjualan terbanyak memakai `ORDER BY`, `DESC`, dan `LIMIT`
+#### ✅ D. Menampilkan produk dengan total penjualan terbanyak memakai `ORDER BY`, `DESC`, dan `LIMIT`
 
 ![sapu lantai](assets/screenshots/produkpenjualanterbanyak.png)
 
@@ -157,7 +157,7 @@ Produk “Sapu Lantai” menduduki posisi tertinggi penjualan.
 
 ---
 
-#### e. Menampilkan semua kategori dengan total penjualan diatas satu juta memakai `HAVING`
+#### ✅ E. Menampilkan semua kategori dengan total penjualan diatas satu juta memakai `HAVING`
 
 ![penjualan diatas satu juta](assets/screenshots/penjualandiatassatujuta.png)
 
@@ -173,12 +173,16 @@ Kami tidak memakai function `COUNT()` karena menurut kami isi dari tugas yang di
 
 ## 🖼️ Dokumentasi Foto
 
-#### Febrian memberikan intruksi ke setiap anggota
+**Febrian memberikan intruksi ke setiap anggota**
 
 ![Intruksi](assets/screenshots/intruksi.png)
 
-#### Zulfa meriset data lengkap dengan kategori jumlah dan total harganya
+**Zulfa meriset data lengkap dengan kategori jumlah dan total harganya**
 
 ![Riset](assets/screenshots/upariset.jpeg)
 
-## comingsoon akan di update
+**Febrian menyusun rancangan awal**
+
+![Rancangan](assets/img/kelompok1febrian.png
+
+
