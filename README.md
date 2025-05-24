@@ -18,7 +18,7 @@ Dokumentasi dari hasil kerja Kelompok 1 pada mata kuliah *Sistem Basis Data*, ya
 | Febrian Eka Putra            | 24424020   | Teknik Informatika     |
 | Zulfa Dwi Nugraha            | 244222013  | Manajemen Informatika  |
 | Rizky Muhammad Nazwaril Ilham| 244242014  | Teknik Informatika     |
-| Yuda Pratama                 | 244222008  | Teknik Informatika     |
+| Yuda Pratama                 | 244222008  | Manajemen Informatika  |
 
 ## Kontribusi
 
