@@ -82,7 +82,7 @@ proses `INSERT` 20 data oleh Rizky dan Yuda dari data yang telah di riset oleh z
 
 ![jumlah transaksi](assets/screenshots/jumlahtransaksitanpawhere.png)
 
-**Menampilkan jumlah transaksi secara spesifik perkategori menggunakan `where`**
+**Menampilkan jumlah transaksi secara spesifik perkategori menggunakan `SUM()` + `WHERE`**
 
 - Jumlah Transaksi Elektronik
 
@@ -106,7 +106,7 @@ proses `INSERT` 20 data oleh Rizky dan Yuda dari data yang telah di riset oleh z
 
 ![jumlah total penndapatan](assets/screenshots/totalpendapatantanpawhere.png)
 
-**Menampilkan total pendapatan secara spesifik perkategori menggunakan `where`**
+**Menampilkan total pendapatan secara spesifik perkategori menggunakan `SUM()` + `WHERE`**
 
 - Pendapatan Elektronik
 
@@ -127,6 +127,10 @@ proses `INSERT` 20 data oleh Rizky dan Yuda dari data yang telah di riset oleh z
 ---
 
 #### c. Menghitung total harga rata-rata untuk setiap kategori memakai `AVG()`
+
+![avg tanpa where](assets/screenshots/rata2totalhargatanpawhere.png)
+
+**Menampilkan total harga rata-rata secara spesifik perkategori menggunakan `SUM()` + `WHERE`**
 
 -  Total Harga Rata-rata Elektronik
 
