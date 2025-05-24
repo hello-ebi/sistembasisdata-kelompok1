@@ -29,11 +29,11 @@ Dokumentasi dari hasil kerja Kelompok 1 pada mata kuliah *Sistem Basis Data*, ya
 - Membuat dokumentasi berupa *README.md*
 
 ### 2. Zulfa Dwi Nugraha
+- Membuat database kelompok1 dan `USE` kelompok1.
 - Mencari dan mengumpulkan 20 data yang relevan dengan isi di dalam tugas.
 - Menyiapkan data mentah agar siap di-`INSERT` oleh Rizky dan Yuda ke database.
 
 ### 3. Rizki Muhammad Nazwaril Ilham
-- Membuat Database Kelompok 1.
 - Menulis ulang query jawaban soal yang telah disiapkan Febrian.
 - `INSERT` 10 data ke tabel query menggunakan MySQL.
 
